@@ -1,6 +1,7 @@
-# PhMeu
+# PhMenu
 
-Menu de Restaurante Administrativo
+## Menu de Restaurante Administrativo
+
 Este é um projeto de menu de restaurante administrativo desenvolvido utilizando as tecnologias ReactJS, React Query, React, Axios e SASS para o front-end, e Spring Boot para o back-end.
 
 ## Sobre o Projeto
