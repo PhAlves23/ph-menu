@@ -8,12 +8,11 @@ Este é um projeto de menu de restaurante administrativo desenvolvido utilizando
 
 
 ## Sobre o Projeto
+Este projeto tem como objetivo criar uma plataforma de gerenciamento completo de pedidos, ingredientes e estoque para um restaurante, por meio de uma interface de usuário amigável e interativa. Para alcançar esse objetivo, utilizamos tecnologias como ReactJS, React Query, Axios e SASS, que permitiram criar componentes reutilizáveis, fazer solicitações assíncronas ao servidor para buscar dados em tempo real e estilizar a aplicação de forma visualmente atraente. Além disso, foram utilizadas outras ferramentas, como o Spring MVC, Spring Data JPA, H2 Database, Lombok, Spring Validations e Spring DevTools para criar um projeto robusto e eficiente, oferecendo uma solução completa para o gerenciamento de um restaurante.
 
-O objetivo deste projeto é criar uma interface de usuário amigável e interativa para gerenciar pedidos, ingredientes e estoque em um ambiente de restaurante.
+Por meio do ReactJS, criamos componentes reutilizáveis e organizamos a aplicação de forma escalável. A biblioteca React Query permite que sejam feitas solicitações assíncronas ao servidor para buscar dados em tempo real e armazená-los em cache, aumentando a eficiência da aplicação. Já o Axios é utilizado para realizar as chamadas à API, que é fácil de usar e oferece diversos recursos, como interceptores de solicitação e resposta e autenticação. O SASS é usado para estilizar o aplicativo e torná-lo mais atraente visualmente.
 
-Com a ajuda do ReactJS, criamos componentes reutilizáveis e organizamos a aplicação de forma escalável. A biblioteca React Query permite que façamos solicitações assíncronas ao servidor para buscar dados em tempo real e armazená-los em cache, o que aumenta a eficiência da aplicação. O Axios é usado para fazer as chamadas à API, que é fácil de usar e oferece vários recursos, como interceptores de solicitação e resposta e autenticação. O SASS é usado para estilizar o aplicativo e torná-lo mais atraente visualmente.
-
-No lado do back-end, o Spring Boot oferece um framework robusto e confiável para desenvolver o aplicativo. Ele inclui recursos como injeção de dependência, segurança e persistência de dados.
+No lado do back-end, utilizamos o Spring Boot, que oferece um framework robusto e confiável para o desenvolvimento do aplicativo, incluindo recursos como injeção de dependência, segurança e persistência de dados. Essas tecnologias permitiram que o projeto fosse construído de forma escalável e eficiente, oferecendo uma solução completa para o gerenciamento de um restaurante.
 
 ## Como executar o Projeto
 
