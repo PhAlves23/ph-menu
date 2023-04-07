@@ -1,0 +1,6 @@
+[submodule "ph-menu-front"]
+	path = ph-menu-front
+	url = https://github.com/PhAlves23/ph-menu-front
+[submodule "ph-menu-back"]
+	path = ph-menu-back
+	url = https://github.com/PhAlves23/ph-menu-back
